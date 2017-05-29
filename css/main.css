@@ -6,6 +6,9 @@ body{
   
 
 }
+h1{
+    font-size: 32px;
+}
 div{
     margin: 0px;
     padding: 0px;
@@ -70,6 +73,22 @@ li:hover{
     
 }
 
+
+
+
+
+
+#logoh1{
+    font-family: Caesar Dressing;
+   
+    
+}
+#aboutpara{
+    
+    font-size: 19px;
+    font-family: Open Sans;
+    margin: 30px;
+}
 @media screen and (max-width: 768px)
 {
     body{
