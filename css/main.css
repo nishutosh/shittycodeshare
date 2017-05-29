@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300|Open+Sans|Caesar+Dressing|Montserrat:700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300|Open+Sans:400,700|Caesar+Dressing');
 body{
     background-color: whitesmoke;
     font-family:Roboto;
@@ -30,6 +30,7 @@ text-align: center;
     padding: 10px;
     width: 13%;
     margin: 10px;
+    margin-top: 10px;
    cursor: pointer;
     background-color:#fb4929;
     color: white;
@@ -40,6 +41,7 @@ text-align: center;
 }
 .box:hover{
     background-color:#f52b06;
+ 
 }
 .footer{
     text-align: center;
@@ -57,14 +59,16 @@ ul{
 li{
     padding: 25px;
     font-size: 15px;
-    font-family: Montserrat;
+    font-family: Open Sans;
     display: inline-block;
+    font-weight: 700;
+    
 }
 li:hover{
     color:#058dff;
     cursor: pointer;
+    
 }
-
 
 @media screen and (max-width: 768px)
 {
