@@ -94,22 +94,25 @@ li:hover{
 
 
 
-
+#name{
+    font-size: 18px;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 7px;
+}
 
 #savecode{
     font-family: Open Sans;
     font-size:20px;
-     right:0%;
     color: white;
-   float: right;
-position: absolute;
     background-color: tomato;
     padding: 7px;
-    border-radius: 5px;
+    border-radius: 2px;
     text-align:center;
-    margin: 9px;
-     top: 12vh;
-    
+     
+    margin: 10px;
+    float: right;
+  
 }
 
 
